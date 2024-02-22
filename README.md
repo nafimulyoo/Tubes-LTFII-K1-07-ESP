@@ -22,7 +22,7 @@ Welcome to the ESP32 MeArm Controller repository, developed by the K1-07 LTF II 
 ### Installation
 
 1. **Set Up Your Environment**: Make sure your development environment is set up with Arduino IDE or ESP-IDF.
-2. **Clone the Repository**: `git clone https://github.com/YourGitHub/K1-07-ESP32-MeArm-Controller.git`
+2. **Clone the Repository**
 3. **Open the Project**: Open the cloned project in your development environment.
 4. **Configure Wi-Fi**: Update the Wi-Fi SSID and password in the code to match your network.
 5. **Upload the Code**: Compile and upload the code to your ESP32 board.
